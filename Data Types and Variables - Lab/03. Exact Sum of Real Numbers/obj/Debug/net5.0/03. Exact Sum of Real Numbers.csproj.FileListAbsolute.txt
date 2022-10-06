@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\bin\Debug\net5.0\03. Exact Sum of Real Numbers.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\bin\Debug\net5.0\03. Exact Sum of Real Numbers.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\bin\Debug\net5.0\03. Exact Sum of Real Numbers.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\bin\Debug\net5.0\03. Exact Sum of Real Numbers.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\bin\Debug\net5.0\03. Exact Sum of Real Numbers.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\bin\Debug\net5.0\03. Exact Sum of Real Numbers.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\net5.0\03. Exact Sum of Real Numbers.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\net5.0\03. Exact Sum of Real Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\net5.0\03. Exact Sum of Real Numbers.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\net5.0\03. Exact Sum of Real Numbers.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\net5.0\03. Exact Sum of Real Numbers.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\net5.0\03. Exact Sum of Real Numbers.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\net5.0\refint\03. Exact Sum of Real Numbers.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\net5.0\03. Exact Sum of Real Numbers.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\net5.0\03. Exact Sum of Real Numbers.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\net5.0\ref\03. Exact Sum of Real Numbers.dll

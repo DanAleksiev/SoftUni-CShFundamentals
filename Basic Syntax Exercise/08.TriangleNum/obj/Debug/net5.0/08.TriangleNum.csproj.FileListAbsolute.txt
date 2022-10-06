@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\08.TriangleNum\bin\Debug\net5.0\08.TriangleNum.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\08.TriangleNum\bin\Debug\net5.0\08.TriangleNum.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\08.TriangleNum\bin\Debug\net5.0\08.TriangleNum.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\08.TriangleNum\bin\Debug\net5.0\08.TriangleNum.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\08.TriangleNum\bin\Debug\net5.0\08.TriangleNum.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\08.TriangleNum\bin\Debug\net5.0\08.TriangleNum.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\08.TriangleNum\obj\Debug\net5.0\08.TriangleNum.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\08.TriangleNum\obj\Debug\net5.0\08.TriangleNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\08.TriangleNum\obj\Debug\net5.0\08.TriangleNum.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\08.TriangleNum\obj\Debug\net5.0\08.TriangleNum.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\08.TriangleNum\obj\Debug\net5.0\08.TriangleNum.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\08.TriangleNum\obj\Debug\net5.0\08.TriangleNum.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\08.TriangleNum\obj\Debug\net5.0\refint\08.TriangleNum.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\08.TriangleNum\obj\Debug\net5.0\08.TriangleNum.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\08.TriangleNum\obj\Debug\net5.0\08.TriangleNum.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\08.TriangleNum\obj\Debug\net5.0\ref\08.TriangleNum.dll

@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\13.HolidaysBetweenDates\bin\Debug\net5.0\13.HolidaysBetweenDates.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\13.HolidaysBetweenDates\bin\Debug\net5.0\13.HolidaysBetweenDates.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\13.HolidaysBetweenDates\bin\Debug\net5.0\13.HolidaysBetweenDates.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\13.HolidaysBetweenDates\bin\Debug\net5.0\13.HolidaysBetweenDates.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\13.HolidaysBetweenDates\bin\Debug\net5.0\13.HolidaysBetweenDates.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\13.HolidaysBetweenDates\bin\Debug\net5.0\13.HolidaysBetweenDates.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\13.HolidaysBetweenDates\obj\Debug\net5.0\13.HolidaysBetweenDates.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\13.HolidaysBetweenDates\obj\Debug\net5.0\13.HolidaysBetweenDates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\13.HolidaysBetweenDates\obj\Debug\net5.0\13.HolidaysBetweenDates.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\13.HolidaysBetweenDates\obj\Debug\net5.0\13.HolidaysBetweenDates.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\13.HolidaysBetweenDates\obj\Debug\net5.0\13.HolidaysBetweenDates.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\13.HolidaysBetweenDates\obj\Debug\net5.0\13.HolidaysBetweenDates.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\13.HolidaysBetweenDates\obj\Debug\net5.0\refint\13.HolidaysBetweenDates.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\13.HolidaysBetweenDates\obj\Debug\net5.0\13.HolidaysBetweenDates.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\13.HolidaysBetweenDates\obj\Debug\net5.0\13.HolidaysBetweenDates.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\13.HolidaysBetweenDates\obj\Debug\net5.0\ref\13.HolidaysBetweenDates.dll

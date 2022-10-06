@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04.Printandsum\bin\Debug\net5.0\04.Printandsum.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04.Printandsum\bin\Debug\net5.0\04.Printandsum.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04.Printandsum\bin\Debug\net5.0\04.Printandsum.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04.Printandsum\bin\Debug\net5.0\04.Printandsum.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04.Printandsum\bin\Debug\net5.0\04.Printandsum.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04.Printandsum\bin\Debug\net5.0\04.Printandsum.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04.Printandsum\obj\Debug\net5.0\04.Printandsum.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04.Printandsum\obj\Debug\net5.0\04.Printandsum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04.Printandsum\obj\Debug\net5.0\04.Printandsum.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04.Printandsum\obj\Debug\net5.0\04.Printandsum.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04.Printandsum\obj\Debug\net5.0\04.Printandsum.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04.Printandsum\obj\Debug\net5.0\04.Printandsum.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04.Printandsum\obj\Debug\net5.0\refint\04.Printandsum.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04.Printandsum\obj\Debug\net5.0\04.Printandsum.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04.Printandsum\obj\Debug\net5.0\04.Printandsum.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04.Printandsum\obj\Debug\net5.0\ref\04.Printandsum.dll

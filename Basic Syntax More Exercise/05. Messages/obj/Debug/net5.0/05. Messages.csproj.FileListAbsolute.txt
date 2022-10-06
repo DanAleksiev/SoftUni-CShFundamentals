@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Basic Syntax More Exercise\05. Messages\bin\Debug\net5.0\05. Messages.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Basic Syntax More Exercise\05. Messages\bin\Debug\net5.0\05. Messages.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Basic Syntax More Exercise\05. Messages\bin\Debug\net5.0\05. Messages.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Basic Syntax More Exercise\05. Messages\bin\Debug\net5.0\05. Messages.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Basic Syntax More Exercise\05. Messages\bin\Debug\net5.0\05. Messages.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Basic Syntax More Exercise\05. Messages\bin\Debug\net5.0\05. Messages.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Basic Syntax More Exercise\05. Messages\obj\Debug\net5.0\05. Messages.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Basic Syntax More Exercise\05. Messages\obj\Debug\net5.0\05. Messages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Basic Syntax More Exercise\05. Messages\obj\Debug\net5.0\05. Messages.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Basic Syntax More Exercise\05. Messages\obj\Debug\net5.0\05. Messages.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Basic Syntax More Exercise\05. Messages\obj\Debug\net5.0\05. Messages.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Basic Syntax More Exercise\05. Messages\obj\Debug\net5.0\05. Messages.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Basic Syntax More Exercise\05. Messages\obj\Debug\net5.0\refint\05. Messages.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Basic Syntax More Exercise\05. Messages\obj\Debug\net5.0\05. Messages.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Basic Syntax More Exercise\05. Messages\obj\Debug\net5.0\05. Messages.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Basic Syntax More Exercise\05. Messages\obj\Debug\net5.0\ref\05. Messages.dll

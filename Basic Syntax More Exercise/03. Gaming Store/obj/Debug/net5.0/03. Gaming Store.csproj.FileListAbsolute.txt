@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Basic Syntax More Exercise\03. Gaming Store\bin\Debug\net5.0\03. Gaming Store.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Basic Syntax More Exercise\03. Gaming Store\bin\Debug\net5.0\03. Gaming Store.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Basic Syntax More Exercise\03. Gaming Store\bin\Debug\net5.0\03. Gaming Store.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Basic Syntax More Exercise\03. Gaming Store\bin\Debug\net5.0\03. Gaming Store.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Basic Syntax More Exercise\03. Gaming Store\bin\Debug\net5.0\03. Gaming Store.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Basic Syntax More Exercise\03. Gaming Store\bin\Debug\net5.0\03. Gaming Store.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Basic Syntax More Exercise\03. Gaming Store\obj\Debug\net5.0\03. Gaming Store.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Basic Syntax More Exercise\03. Gaming Store\obj\Debug\net5.0\03. Gaming Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Basic Syntax More Exercise\03. Gaming Store\obj\Debug\net5.0\03. Gaming Store.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Basic Syntax More Exercise\03. Gaming Store\obj\Debug\net5.0\03. Gaming Store.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Basic Syntax More Exercise\03. Gaming Store\obj\Debug\net5.0\03. Gaming Store.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Basic Syntax More Exercise\03. Gaming Store\obj\Debug\net5.0\03. Gaming Store.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Basic Syntax More Exercise\03. Gaming Store\obj\Debug\net5.0\refint\03. Gaming Store.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Basic Syntax More Exercise\03. Gaming Store\obj\Debug\net5.0\03. Gaming Store.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Basic Syntax More Exercise\03. Gaming Store\obj\Debug\net5.0\03. Gaming Store.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Basic Syntax More Exercise\03. Gaming Store\obj\Debug\net5.0\ref\03. Gaming Store.dll

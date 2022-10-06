@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Arrays - Lab\01. Day of Week\bin\Debug\net5.0\01. Day of Week.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Arrays - Lab\01. Day of Week\bin\Debug\net5.0\01. Day of Week.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Arrays - Lab\01. Day of Week\bin\Debug\net5.0\01. Day of Week.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Arrays - Lab\01. Day of Week\bin\Debug\net5.0\01. Day of Week.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Arrays - Lab\01. Day of Week\bin\Debug\net5.0\01. Day of Week.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Arrays - Lab\01. Day of Week\bin\Debug\net5.0\01. Day of Week.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Arrays - Lab\01. Day of Week\obj\Debug\net5.0\01. Day of Week.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Arrays - Lab\01. Day of Week\obj\Debug\net5.0\01. Day of Week.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Arrays - Lab\01. Day of Week\obj\Debug\net5.0\01. Day of Week.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Arrays - Lab\01. Day of Week\obj\Debug\net5.0\01. Day of Week.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Arrays - Lab\01. Day of Week\obj\Debug\net5.0\01. Day of Week.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Arrays - Lab\01. Day of Week\obj\Debug\net5.0\01. Day of Week.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Arrays - Lab\01. Day of Week\obj\Debug\net5.0\refint\01. Day of Week.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Arrays - Lab\01. Day of Week\obj\Debug\net5.0\01. Day of Week.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Arrays - Lab\01. Day of Week\obj\Debug\net5.0\01. Day of Week.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Arrays - Lab\01. Day of Week\obj\Debug\net5.0\ref\01. Day of Week.dll

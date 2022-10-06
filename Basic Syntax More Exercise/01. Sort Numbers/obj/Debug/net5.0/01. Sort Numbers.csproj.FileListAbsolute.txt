@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Basic Syntax More Exercise\01. Sort Numbers\bin\Debug\net5.0\01. Sort Numbers.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Basic Syntax More Exercise\01. Sort Numbers\bin\Debug\net5.0\01. Sort Numbers.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Basic Syntax More Exercise\01. Sort Numbers\bin\Debug\net5.0\01. Sort Numbers.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Basic Syntax More Exercise\01. Sort Numbers\bin\Debug\net5.0\01. Sort Numbers.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Basic Syntax More Exercise\01. Sort Numbers\bin\Debug\net5.0\01. Sort Numbers.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Basic Syntax More Exercise\01. Sort Numbers\bin\Debug\net5.0\01. Sort Numbers.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Basic Syntax More Exercise\01. Sort Numbers\obj\Debug\net5.0\01. Sort Numbers.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Basic Syntax More Exercise\01. Sort Numbers\obj\Debug\net5.0\01. Sort Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Basic Syntax More Exercise\01. Sort Numbers\obj\Debug\net5.0\01. Sort Numbers.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Basic Syntax More Exercise\01. Sort Numbers\obj\Debug\net5.0\01. Sort Numbers.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Basic Syntax More Exercise\01. Sort Numbers\obj\Debug\net5.0\01. Sort Numbers.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Basic Syntax More Exercise\01. Sort Numbers\obj\Debug\net5.0\01. Sort Numbers.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Basic Syntax More Exercise\01. Sort Numbers\obj\Debug\net5.0\refint\01. Sort Numbers.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Basic Syntax More Exercise\01. Sort Numbers\obj\Debug\net5.0\01. Sort Numbers.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Basic Syntax More Exercise\01. Sort Numbers\obj\Debug\net5.0\01. Sort Numbers.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Basic Syntax More Exercise\01. Sort Numbers\obj\Debug\net5.0\ref\01. Sort Numbers.dll

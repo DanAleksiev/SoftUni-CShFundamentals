@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table\bin\Debug\net5.0\10. Multiplication Table.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table\bin\Debug\net5.0\10. Multiplication Table.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table\bin\Debug\net5.0\10. Multiplication Table.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table\bin\Debug\net5.0\10. Multiplication Table.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table\bin\Debug\net5.0\10. Multiplication Table.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table\bin\Debug\net5.0\10. Multiplication Table.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table\obj\Debug\net5.0\10. Multiplication Table.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table\obj\Debug\net5.0\10. Multiplication Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table\obj\Debug\net5.0\10. Multiplication Table.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table\obj\Debug\net5.0\10. Multiplication Table.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table\obj\Debug\net5.0\10. Multiplication Table.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table\obj\Debug\net5.0\10. Multiplication Table.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table\obj\Debug\net5.0\refint\10. Multiplication Table.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table\obj\Debug\net5.0\10. Multiplication Table.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table\obj\Debug\net5.0\10. Multiplication Table.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table\obj\Debug\net5.0\ref\10. Multiplication Table.dll

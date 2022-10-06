@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\06.Strongnum\bin\Debug\net5.0\06.Strongnum.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\06.Strongnum\bin\Debug\net5.0\06.Strongnum.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\06.Strongnum\bin\Debug\net5.0\06.Strongnum.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\06.Strongnum\bin\Debug\net5.0\06.Strongnum.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\06.Strongnum\bin\Debug\net5.0\06.Strongnum.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\06.Strongnum\bin\Debug\net5.0\06.Strongnum.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\06.Strongnum\obj\Debug\net5.0\06.Strongnum.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\06.Strongnum\obj\Debug\net5.0\06.Strongnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\06.Strongnum\obj\Debug\net5.0\06.Strongnum.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\06.Strongnum\obj\Debug\net5.0\06.Strongnum.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\06.Strongnum\obj\Debug\net5.0\06.Strongnum.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\06.Strongnum\obj\Debug\net5.0\06.Strongnum.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\06.Strongnum\obj\Debug\net5.0\refint\06.Strongnum.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\06.Strongnum\obj\Debug\net5.0\06.Strongnum.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\06.Strongnum\obj\Debug\net5.0\06.Strongnum.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\06.Strongnum\obj\Debug\net5.0\ref\06.Strongnum.dll

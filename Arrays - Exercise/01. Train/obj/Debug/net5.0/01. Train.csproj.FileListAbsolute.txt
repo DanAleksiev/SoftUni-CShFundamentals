@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Arrays - Exercise\01. Train\bin\Debug\net5.0\01. Train.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Arrays - Exercise\01. Train\bin\Debug\net5.0\01. Train.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Arrays - Exercise\01. Train\bin\Debug\net5.0\01. Train.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Arrays - Exercise\01. Train\bin\Debug\net5.0\01. Train.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Arrays - Exercise\01. Train\bin\Debug\net5.0\01. Train.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Arrays - Exercise\01. Train\bin\Debug\net5.0\01. Train.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Arrays - Exercise\01. Train\obj\Debug\net5.0\01. Train.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Arrays - Exercise\01. Train\obj\Debug\net5.0\01. Train.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Arrays - Exercise\01. Train\obj\Debug\net5.0\01. Train.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Arrays - Exercise\01. Train\obj\Debug\net5.0\01. Train.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Arrays - Exercise\01. Train\obj\Debug\net5.0\01. Train.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Arrays - Exercise\01. Train\obj\Debug\net5.0\01. Train.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Arrays - Exercise\01. Train\obj\Debug\net5.0\refint\01. Train.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Arrays - Exercise\01. Train\obj\Debug\net5.0\01. Train.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Arrays - Exercise\01. Train\obj\Debug\net5.0\01. Train.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Arrays - Exercise\01. Train\obj\Debug\net5.0\ref\01. Train.dll

@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Arrays - Exercise\02. Common Elements\bin\Debug\net5.0\02. Common Elements.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Arrays - Exercise\02. Common Elements\bin\Debug\net5.0\02. Common Elements.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Arrays - Exercise\02. Common Elements\bin\Debug\net5.0\02. Common Elements.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Arrays - Exercise\02. Common Elements\bin\Debug\net5.0\02. Common Elements.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Arrays - Exercise\02. Common Elements\bin\Debug\net5.0\02. Common Elements.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Arrays - Exercise\02. Common Elements\bin\Debug\net5.0\02. Common Elements.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Arrays - Exercise\02. Common Elements\obj\Debug\net5.0\02. Common Elements.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Arrays - Exercise\02. Common Elements\obj\Debug\net5.0\02. Common Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Arrays - Exercise\02. Common Elements\obj\Debug\net5.0\02. Common Elements.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Arrays - Exercise\02. Common Elements\obj\Debug\net5.0\02. Common Elements.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Arrays - Exercise\02. Common Elements\obj\Debug\net5.0\02. Common Elements.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Arrays - Exercise\02. Common Elements\obj\Debug\net5.0\02. Common Elements.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Arrays - Exercise\02. Common Elements\obj\Debug\net5.0\refint\02. Common Elements.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Arrays - Exercise\02. Common Elements\obj\Debug\net5.0\02. Common Elements.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Arrays - Exercise\02. Common Elements\obj\Debug\net5.0\02. Common Elements.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Arrays - Exercise\02. Common Elements\obj\Debug\net5.0\ref\02. Common Elements.dll

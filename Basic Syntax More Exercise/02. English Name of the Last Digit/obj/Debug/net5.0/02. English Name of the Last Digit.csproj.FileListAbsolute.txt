@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Basic Syntax More Exercise\02. English Name of the Last Digit\bin\Debug\net5.0\02. English Name of the Last Digit.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Basic Syntax More Exercise\02. English Name of the Last Digit\bin\Debug\net5.0\02. English Name of the Last Digit.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Basic Syntax More Exercise\02. English Name of the Last Digit\bin\Debug\net5.0\02. English Name of the Last Digit.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Basic Syntax More Exercise\02. English Name of the Last Digit\bin\Debug\net5.0\02. English Name of the Last Digit.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Basic Syntax More Exercise\02. English Name of the Last Digit\bin\Debug\net5.0\02. English Name of the Last Digit.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Basic Syntax More Exercise\02. English Name of the Last Digit\bin\Debug\net5.0\02. English Name of the Last Digit.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Basic Syntax More Exercise\02. English Name of the Last Digit\obj\Debug\net5.0\02. English Name of the Last Digit.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Basic Syntax More Exercise\02. English Name of the Last Digit\obj\Debug\net5.0\02. English Name of the Last Digit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Basic Syntax More Exercise\02. English Name of the Last Digit\obj\Debug\net5.0\02. English Name of the Last Digit.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Basic Syntax More Exercise\02. English Name of the Last Digit\obj\Debug\net5.0\02. English Name of the Last Digit.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Basic Syntax More Exercise\02. English Name of the Last Digit\obj\Debug\net5.0\02. English Name of the Last Digit.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Basic Syntax More Exercise\02. English Name of the Last Digit\obj\Debug\net5.0\02. English Name of the Last Digit.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Basic Syntax More Exercise\02. English Name of the Last Digit\obj\Debug\net5.0\refint\02. English Name of the Last Digit.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Basic Syntax More Exercise\02. English Name of the Last Digit\obj\Debug\net5.0\02. English Name of the Last Digit.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Basic Syntax More Exercise\02. English Name of the Last Digit\obj\Debug\net5.0\02. English Name of the Last Digit.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Basic Syntax More Exercise\02. English Name of the Last Digit\obj\Debug\net5.0\ref\02. English Name of the Last Digit.dll

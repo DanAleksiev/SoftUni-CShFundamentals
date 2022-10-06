@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Guess A Number\Guess A Number\bin\Debug\net5.0\Guess A Number.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Guess A Number\Guess A Number\bin\Debug\net5.0\Guess A Number.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Guess A Number\Guess A Number\bin\Debug\net5.0\Guess A Number.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Guess A Number\Guess A Number\bin\Debug\net5.0\Guess A Number.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Guess A Number\Guess A Number\bin\Debug\net5.0\Guess A Number.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Guess A Number\Guess A Number\bin\Debug\net5.0\Guess A Number.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Guess A Number\Guess A Number\obj\Debug\net5.0\Guess A Number.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Guess A Number\Guess A Number\obj\Debug\net5.0\Guess A Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Guess A Number\Guess A Number\obj\Debug\net5.0\Guess A Number.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Guess A Number\Guess A Number\obj\Debug\net5.0\Guess A Number.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Guess A Number\Guess A Number\obj\Debug\net5.0\Guess A Number.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Guess A Number\Guess A Number\obj\Debug\net5.0\Guess A Number.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Guess A Number\Guess A Number\obj\Debug\net5.0\refint\Guess A Number.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Guess A Number\Guess A Number\obj\Debug\net5.0\Guess A Number.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Guess A Number\Guess A Number\obj\Debug\net5.0\Guess A Number.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Guess A Number\Guess A Number\obj\Debug\net5.0\ref\Guess A Number.dll

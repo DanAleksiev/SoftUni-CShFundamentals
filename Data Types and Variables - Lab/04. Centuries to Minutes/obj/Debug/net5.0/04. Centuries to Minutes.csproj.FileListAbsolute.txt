@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Data Types and Variables - Lab\04. Centuries to Minutes\bin\Debug\net5.0\04. Centuries to Minutes.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Data Types and Variables - Lab\04. Centuries to Minutes\bin\Debug\net5.0\04. Centuries to Minutes.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Data Types and Variables - Lab\04. Centuries to Minutes\bin\Debug\net5.0\04. Centuries to Minutes.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Data Types and Variables - Lab\04. Centuries to Minutes\bin\Debug\net5.0\04. Centuries to Minutes.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Data Types and Variables - Lab\04. Centuries to Minutes\bin\Debug\net5.0\04. Centuries to Minutes.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Data Types and Variables - Lab\04. Centuries to Minutes\bin\Debug\net5.0\04. Centuries to Minutes.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\net5.0\04. Centuries to Minutes.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\net5.0\04. Centuries to Minutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\net5.0\04. Centuries to Minutes.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\net5.0\04. Centuries to Minutes.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\net5.0\04. Centuries to Minutes.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\net5.0\04. Centuries to Minutes.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\net5.0\refint\04. Centuries to Minutes.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\net5.0\04. Centuries to Minutes.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\net5.0\04. Centuries to Minutes.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\net5.0\ref\04. Centuries to Minutes.dll

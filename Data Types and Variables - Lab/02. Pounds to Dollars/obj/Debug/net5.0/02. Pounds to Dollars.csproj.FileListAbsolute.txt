@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\net5.0\02. Pounds to Dollars.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\net5.0\02. Pounds to Dollars.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\net5.0\02. Pounds to Dollars.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\net5.0\02. Pounds to Dollars.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\net5.0\02. Pounds to Dollars.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\net5.0\02. Pounds to Dollars.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net5.0\02. Pounds to Dollars.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net5.0\02. Pounds to Dollars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net5.0\02. Pounds to Dollars.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net5.0\02. Pounds to Dollars.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net5.0\02. Pounds to Dollars.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net5.0\02. Pounds to Dollars.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net5.0\refint\02. Pounds to Dollars.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net5.0\02. Pounds to Dollars.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net5.0\02. Pounds to Dollars.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net5.0\ref\02. Pounds to Dollars.dll
