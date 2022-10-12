@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\my work\\Arrays - Exercise\\09. Kamino Factory\\09. Kamino Factory.csproj": {}
+    "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\MyWorkFundamentals\\Arrays - Exercise\\09. Kamino Factory\\09. Kamino Factory.csproj": {}
   },
   "projects": {
-    "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\my work\\Arrays - Exercise\\09. Kamino Factory\\09. Kamino Factory.csproj": {
+    "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\MyWorkFundamentals\\Arrays - Exercise\\09. Kamino Factory\\09. Kamino Factory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\my work\\Arrays - Exercise\\09. Kamino Factory\\09. Kamino Factory.csproj",
+        "projectUniqueName": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\MyWorkFundamentals\\Arrays - Exercise\\09. Kamino Factory\\09. Kamino Factory.csproj",
         "projectName": "09. Kamino Factory",
-        "projectPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\my work\\Arrays - Exercise\\09. Kamino Factory\\09. Kamino Factory.csproj",
+        "projectPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\MyWorkFundamentals\\Arrays - Exercise\\09. Kamino Factory\\09. Kamino Factory.csproj",
         "packagesPath": "C:\\Users\\toksi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\my work\\Arrays - Exercise\\09. Kamino Factory\\obj\\",
+        "outputPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\MyWorkFundamentals\\Arrays - Exercise\\09. Kamino Factory\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

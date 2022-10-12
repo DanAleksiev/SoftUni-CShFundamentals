@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\my work\\Arrays - Exercise\\Arrays - Exercise\\05. Top Integers.csproj": {}
+    "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\MyWorkFundamentals\\Arrays - Exercise\\Arrays - Exercise\\05. Top Integers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\my work\\Arrays - Exercise\\Arrays - Exercise\\05. Top Integers.csproj": {
+    "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\MyWorkFundamentals\\Arrays - Exercise\\Arrays - Exercise\\05. Top Integers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\my work\\Arrays - Exercise\\Arrays - Exercise\\05. Top Integers.csproj",
+        "projectUniqueName": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\MyWorkFundamentals\\Arrays - Exercise\\Arrays - Exercise\\05. Top Integers.csproj",
         "projectName": "05. Top Integers",
-        "projectPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\my work\\Arrays - Exercise\\Arrays - Exercise\\05. Top Integers.csproj",
+        "projectPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\MyWorkFundamentals\\Arrays - Exercise\\Arrays - Exercise\\05. Top Integers.csproj",
         "packagesPath": "C:\\Users\\toksi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\my work\\Arrays - Exercise\\Arrays - Exercise\\obj\\",
+        "outputPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\MyWorkFundamentals\\Arrays - Exercise\\Arrays - Exercise\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\Methods-Lab\04.PrintingTriangle\bin\Debug\net5.0\04.PrintingTriangle.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\Methods-Lab\04.PrintingTriangle\bin\Debug\net5.0\04.PrintingTriangle.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\Methods-Lab\04.PrintingTriangle\bin\Debug\net5.0\04.PrintingTriangle.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\Methods-Lab\04.PrintingTriangle\bin\Debug\net5.0\04.PrintingTriangle.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\Methods-Lab\04.PrintingTriangle\bin\Debug\net5.0\04.PrintingTriangle.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\Methods-Lab\04.PrintingTriangle\bin\Debug\net5.0\04.PrintingTriangle.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\Methods-Lab\04.PrintingTriangle\obj\Debug\net5.0\04.PrintingTriangle.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\Methods-Lab\04.PrintingTriangle\obj\Debug\net5.0\04.PrintingTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\Methods-Lab\04.PrintingTriangle\obj\Debug\net5.0\04.PrintingTriangle.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\Methods-Lab\04.PrintingTriangle\obj\Debug\net5.0\04.PrintingTriangle.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\Methods-Lab\04.PrintingTriangle\obj\Debug\net5.0\04.PrintingTriangle.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\Methods-Lab\04.PrintingTriangle\obj\Debug\net5.0\04.PrintingTriangle.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\Methods-Lab\04.PrintingTriangle\obj\Debug\net5.0\refint\04.PrintingTriangle.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\Methods-Lab\04.PrintingTriangle\obj\Debug\net5.0\04.PrintingTriangle.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\Methods-Lab\04.PrintingTriangle\obj\Debug\net5.0\04.PrintingTriangle.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\Methods-Lab\04.PrintingTriangle\obj\Debug\net5.0\ref\04.PrintingTriangle.dll

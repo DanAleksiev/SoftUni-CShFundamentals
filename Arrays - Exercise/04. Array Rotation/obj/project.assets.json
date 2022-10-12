@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\my work\\Arrays - Exercise\\04. Array Rotation\\04. Array Rotation.csproj",
+      "projectUniqueName": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\MyWorkFundamentals\\Arrays - Exercise\\04. Array Rotation\\04. Array Rotation.csproj",
       "projectName": "04. Array Rotation",
-      "projectPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\my work\\Arrays - Exercise\\04. Array Rotation\\04. Array Rotation.csproj",
+      "projectPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\MyWorkFundamentals\\Arrays - Exercise\\04. Array Rotation\\04. Array Rotation.csproj",
       "packagesPath": "C:\\Users\\toksi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\my work\\Arrays - Exercise\\04. Array Rotation\\obj\\",
+      "outputPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\MyWorkFundamentals\\Arrays - Exercise\\04. Array Rotation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

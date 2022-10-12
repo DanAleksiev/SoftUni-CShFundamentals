@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Data;
 
 namespace _01.SignofIntegerNumbers
     {
@@ -6,7 +7,24 @@ namespace _01.SignofIntegerNumbers
         {
         static void Main(string[] args)
             {
-            Console.WriteLine("Hello World!");
+            int input = int.Parse(Console.ReadLine());
+            numbers(input);
+            }
+
+        static void numbers(int input)
+            {
+            if (input == 0)
+                {
+                Console.WriteLine($"The number {input} is zero. ");
+                }
+            else if (input > 0)
+                {
+                Console.WriteLine($"The number {input} is positive. ");
+                }
+            else
+                {
+                Console.WriteLine($"The number {input} is negative. ");
+                }
             }
         }
     }

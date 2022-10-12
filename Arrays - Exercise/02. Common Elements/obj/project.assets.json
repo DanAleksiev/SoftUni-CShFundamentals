@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\my work\\Arrays - Exercise\\02. Common Elements\\02. Common Elements.csproj",
+      "projectUniqueName": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\MyWorkFundamentals\\Arrays - Exercise\\02. Common Elements\\02. Common Elements.csproj",
       "projectName": "02. Common Elements",
-      "projectPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\my work\\Arrays - Exercise\\02. Common Elements\\02. Common Elements.csproj",
+      "projectPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\MyWorkFundamentals\\Arrays - Exercise\\02. Common Elements\\02. Common Elements.csproj",
       "packagesPath": "C:\\Users\\toksi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\my work\\Arrays - Exercise\\02. Common Elements\\obj\\",
+      "outputPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\MyWorkFundamentals\\Arrays - Exercise\\02. Common Elements\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

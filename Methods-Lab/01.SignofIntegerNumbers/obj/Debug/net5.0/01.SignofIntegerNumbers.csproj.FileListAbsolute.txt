@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\Methods-Lab\01.SignofIntegerNumbers\bin\Debug\net5.0\01.SignofIntegerNumbers.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\Methods-Lab\01.SignofIntegerNumbers\bin\Debug\net5.0\01.SignofIntegerNumbers.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\Methods-Lab\01.SignofIntegerNumbers\bin\Debug\net5.0\01.SignofIntegerNumbers.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\Methods-Lab\01.SignofIntegerNumbers\bin\Debug\net5.0\01.SignofIntegerNumbers.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\Methods-Lab\01.SignofIntegerNumbers\bin\Debug\net5.0\01.SignofIntegerNumbers.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\Methods-Lab\01.SignofIntegerNumbers\bin\Debug\net5.0\01.SignofIntegerNumbers.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\Methods-Lab\01.SignofIntegerNumbers\obj\Debug\net5.0\01.SignofIntegerNumbers.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\Methods-Lab\01.SignofIntegerNumbers\obj\Debug\net5.0\01.SignofIntegerNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\Methods-Lab\01.SignofIntegerNumbers\obj\Debug\net5.0\01.SignofIntegerNumbers.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\Methods-Lab\01.SignofIntegerNumbers\obj\Debug\net5.0\01.SignofIntegerNumbers.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\Methods-Lab\01.SignofIntegerNumbers\obj\Debug\net5.0\01.SignofIntegerNumbers.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\Methods-Lab\01.SignofIntegerNumbers\obj\Debug\net5.0\01.SignofIntegerNumbers.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\Methods-Lab\01.SignofIntegerNumbers\obj\Debug\net5.0\refint\01.SignofIntegerNumbers.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\Methods-Lab\01.SignofIntegerNumbers\obj\Debug\net5.0\01.SignofIntegerNumbers.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\Methods-Lab\01.SignofIntegerNumbers\obj\Debug\net5.0\01.SignofIntegerNumbers.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\Methods-Lab\01.SignofIntegerNumbers\obj\Debug\net5.0\ref\01.SignofIntegerNumbers.dll

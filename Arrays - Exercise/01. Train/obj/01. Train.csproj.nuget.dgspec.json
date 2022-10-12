@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\my work\\Arrays - Exercise\\01. Train\\01. Train.csproj": {}
+    "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\MyWorkFundamentals\\Arrays - Exercise\\01. Train\\01. Train.csproj": {}
   },
   "projects": {
-    "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\my work\\Arrays - Exercise\\01. Train\\01. Train.csproj": {
+    "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\MyWorkFundamentals\\Arrays - Exercise\\01. Train\\01. Train.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\my work\\Arrays - Exercise\\01. Train\\01. Train.csproj",
+        "projectUniqueName": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\MyWorkFundamentals\\Arrays - Exercise\\01. Train\\01. Train.csproj",
         "projectName": "01. Train",
-        "projectPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\my work\\Arrays - Exercise\\01. Train\\01. Train.csproj",
+        "projectPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\MyWorkFundamentals\\Arrays - Exercise\\01. Train\\01. Train.csproj",
         "packagesPath": "C:\\Users\\toksi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\my work\\Arrays - Exercise\\01. Train\\obj\\",
+        "outputPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\MyWorkFundamentals\\Arrays - Exercise\\01. Train\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
