@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\cheatSheetMethods!\cheatSheetMethods!\bin\Debug\net5.0\cheatSheetMethods!.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\cheatSheetMethods!\cheatSheetMethods!\bin\Debug\net5.0\cheatSheetMethods!.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\cheatSheetMethods!\cheatSheetMethods!\bin\Debug\net5.0\cheatSheetMethods!.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\cheatSheetMethods!\cheatSheetMethods!\bin\Debug\net5.0\cheatSheetMethods!.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\cheatSheetMethods!\cheatSheetMethods!\bin\Debug\net5.0\cheatSheetMethods!.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\cheatSheetMethods!\cheatSheetMethods!\bin\Debug\net5.0\cheatSheetMethods!.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\cheatSheetMethods!\cheatSheetMethods!\obj\Debug\net5.0\cheatSheetMethods!.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\cheatSheetMethods!\cheatSheetMethods!\obj\Debug\net5.0\cheatSheetMethods!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\cheatSheetMethods!\cheatSheetMethods!\obj\Debug\net5.0\cheatSheetMethods!.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\cheatSheetMethods!\cheatSheetMethods!\obj\Debug\net5.0\cheatSheetMethods!.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\cheatSheetMethods!\cheatSheetMethods!\obj\Debug\net5.0\cheatSheetMethods!.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\cheatSheetMethods!\cheatSheetMethods!\obj\Debug\net5.0\cheatSheetMethods!.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\cheatSheetMethods!\cheatSheetMethods!\obj\Debug\net5.0\refint\cheatSheetMethods!.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\cheatSheetMethods!\cheatSheetMethods!\obj\Debug\net5.0\cheatSheetMethods!.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\cheatSheetMethods!\cheatSheetMethods!\obj\Debug\net5.0\cheatSheetMethods!.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\cheatSheetMethods!\cheatSheetMethods!\obj\Debug\net5.0\ref\cheatSheetMethods!.dll

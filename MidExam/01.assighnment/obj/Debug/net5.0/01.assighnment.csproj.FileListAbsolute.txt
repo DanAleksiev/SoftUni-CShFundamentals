@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\MidExam\01.assighnment\bin\Debug\net5.0\01.assighnment.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\MidExam\01.assighnment\bin\Debug\net5.0\01.assighnment.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\MidExam\01.assighnment\bin\Debug\net5.0\01.assighnment.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\MidExam\01.assighnment\bin\Debug\net5.0\01.assighnment.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\MidExam\01.assighnment\bin\Debug\net5.0\01.assighnment.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\MidExam\01.assighnment\bin\Debug\net5.0\01.assighnment.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\MidExam\01.assighnment\obj\Debug\net5.0\01.assighnment.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\MidExam\01.assighnment\obj\Debug\net5.0\01.assighnment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\MidExam\01.assighnment\obj\Debug\net5.0\01.assighnment.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\MidExam\01.assighnment\obj\Debug\net5.0\01.assighnment.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\MidExam\01.assighnment\obj\Debug\net5.0\01.assighnment.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\MidExam\01.assighnment\obj\Debug\net5.0\01.assighnment.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\MidExam\01.assighnment\obj\Debug\net5.0\refint\01.assighnment.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\MidExam\01.assighnment\obj\Debug\net5.0\01.assighnment.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\MidExam\01.assighnment\obj\Debug\net5.0\01.assighnment.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\MidExam\01.assighnment\obj\Debug\net5.0\ref\01.assighnment.dll

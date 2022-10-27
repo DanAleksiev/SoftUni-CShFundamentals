@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Methods - Exercise\09. Palindrome Integers\bin\Debug\net5.0\09. Palindrome Integers.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Methods - Exercise\09. Palindrome Integers\bin\Debug\net5.0\09. Palindrome Integers.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Methods - Exercise\09. Palindrome Integers\bin\Debug\net5.0\09. Palindrome Integers.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Methods - Exercise\09. Palindrome Integers\bin\Debug\net5.0\09. Palindrome Integers.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Methods - Exercise\09. Palindrome Integers\bin\Debug\net5.0\09. Palindrome Integers.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Methods - Exercise\09. Palindrome Integers\bin\Debug\net5.0\09. Palindrome Integers.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Methods - Exercise\09. Palindrome Integers\obj\Debug\net5.0\09. Palindrome Integers.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Methods - Exercise\09. Palindrome Integers\obj\Debug\net5.0\09. Palindrome Integers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Methods - Exercise\09. Palindrome Integers\obj\Debug\net5.0\09. Palindrome Integers.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Methods - Exercise\09. Palindrome Integers\obj\Debug\net5.0\09. Palindrome Integers.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Methods - Exercise\09. Palindrome Integers\obj\Debug\net5.0\09. Palindrome Integers.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Methods - Exercise\09. Palindrome Integers\obj\Debug\net5.0\09. Palindrome Integers.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Methods - Exercise\09. Palindrome Integers\obj\Debug\net5.0\refint\09. Palindrome Integers.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Methods - Exercise\09. Palindrome Integers\obj\Debug\net5.0\09. Palindrome Integers.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Methods - Exercise\09. Palindrome Integers\obj\Debug\net5.0\09. Palindrome Integers.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Methods - Exercise\09. Palindrome Integers\obj\Debug\net5.0\ref\09. Palindrome Integers.dll

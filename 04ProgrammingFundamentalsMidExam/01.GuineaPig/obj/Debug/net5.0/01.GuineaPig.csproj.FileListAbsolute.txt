@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\04ProgrammingFundamentalsMidExam\01.GuineaPig\bin\Debug\net5.0\01.GuineaPig.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\04ProgrammingFundamentalsMidExam\01.GuineaPig\bin\Debug\net5.0\01.GuineaPig.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\04ProgrammingFundamentalsMidExam\01.GuineaPig\bin\Debug\net5.0\01.GuineaPig.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\04ProgrammingFundamentalsMidExam\01.GuineaPig\bin\Debug\net5.0\01.GuineaPig.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\04ProgrammingFundamentalsMidExam\01.GuineaPig\bin\Debug\net5.0\01.GuineaPig.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\04ProgrammingFundamentalsMidExam\01.GuineaPig\bin\Debug\net5.0\01.GuineaPig.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\04ProgrammingFundamentalsMidExam\01.GuineaPig\obj\Debug\net5.0\01.GuineaPig.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\04ProgrammingFundamentalsMidExam\01.GuineaPig\obj\Debug\net5.0\01.GuineaPig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\04ProgrammingFundamentalsMidExam\01.GuineaPig\obj\Debug\net5.0\01.GuineaPig.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\04ProgrammingFundamentalsMidExam\01.GuineaPig\obj\Debug\net5.0\01.GuineaPig.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\04ProgrammingFundamentalsMidExam\01.GuineaPig\obj\Debug\net5.0\01.GuineaPig.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\04ProgrammingFundamentalsMidExam\01.GuineaPig\obj\Debug\net5.0\01.GuineaPig.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\04ProgrammingFundamentalsMidExam\01.GuineaPig\obj\Debug\net5.0\refint\01.GuineaPig.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\04ProgrammingFundamentalsMidExam\01.GuineaPig\obj\Debug\net5.0\01.GuineaPig.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\04ProgrammingFundamentalsMidExam\01.GuineaPig\obj\Debug\net5.0\01.GuineaPig.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\04ProgrammingFundamentalsMidExam\01.GuineaPig\obj\Debug\net5.0\ref\01.GuineaPig.dll

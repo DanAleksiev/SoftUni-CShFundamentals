@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\04ProgrammingFundamentalsMidExam\02.ShoppingList\bin\Debug\net5.0\02.ShoppingList.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\04ProgrammingFundamentalsMidExam\02.ShoppingList\bin\Debug\net5.0\02.ShoppingList.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\04ProgrammingFundamentalsMidExam\02.ShoppingList\bin\Debug\net5.0\02.ShoppingList.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\04ProgrammingFundamentalsMidExam\02.ShoppingList\bin\Debug\net5.0\02.ShoppingList.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\04ProgrammingFundamentalsMidExam\02.ShoppingList\bin\Debug\net5.0\02.ShoppingList.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\04ProgrammingFundamentalsMidExam\02.ShoppingList\bin\Debug\net5.0\02.ShoppingList.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\04ProgrammingFundamentalsMidExam\02.ShoppingList\obj\Debug\net5.0\02.ShoppingList.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\04ProgrammingFundamentalsMidExam\02.ShoppingList\obj\Debug\net5.0\02.ShoppingList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\04ProgrammingFundamentalsMidExam\02.ShoppingList\obj\Debug\net5.0\02.ShoppingList.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\04ProgrammingFundamentalsMidExam\02.ShoppingList\obj\Debug\net5.0\02.ShoppingList.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\04ProgrammingFundamentalsMidExam\02.ShoppingList\obj\Debug\net5.0\02.ShoppingList.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\04ProgrammingFundamentalsMidExam\02.ShoppingList\obj\Debug\net5.0\02.ShoppingList.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\04ProgrammingFundamentalsMidExam\02.ShoppingList\obj\Debug\net5.0\refint\02.ShoppingList.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\04ProgrammingFundamentalsMidExam\02.ShoppingList\obj\Debug\net5.0\02.ShoppingList.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\04ProgrammingFundamentalsMidExam\02.ShoppingList\obj\Debug\net5.0\02.ShoppingList.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\04ProgrammingFundamentalsMidExam\02.ShoppingList\obj\Debug\net5.0\ref\02.ShoppingList.dll

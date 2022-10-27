@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\04ProgrammingFundamentalsMidExam\02.CarRace\bin\Debug\net5.0\02.CarRace.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\04ProgrammingFundamentalsMidExam\02.CarRace\bin\Debug\net5.0\02.CarRace.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\04ProgrammingFundamentalsMidExam\02.CarRace\bin\Debug\net5.0\02.CarRace.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\04ProgrammingFundamentalsMidExam\02.CarRace\bin\Debug\net5.0\02.CarRace.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\04ProgrammingFundamentalsMidExam\02.CarRace\bin\Debug\net5.0\02.CarRace.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\04ProgrammingFundamentalsMidExam\02.CarRace\bin\Debug\net5.0\02.CarRace.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\04ProgrammingFundamentalsMidExam\02.CarRace\obj\Debug\net5.0\02.CarRace.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\04ProgrammingFundamentalsMidExam\02.CarRace\obj\Debug\net5.0\02.CarRace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\04ProgrammingFundamentalsMidExam\02.CarRace\obj\Debug\net5.0\02.CarRace.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\04ProgrammingFundamentalsMidExam\02.CarRace\obj\Debug\net5.0\02.CarRace.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\04ProgrammingFundamentalsMidExam\02.CarRace\obj\Debug\net5.0\02.CarRace.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\04ProgrammingFundamentalsMidExam\02.CarRace\obj\Debug\net5.0\02.CarRace.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\04ProgrammingFundamentalsMidExam\02.CarRace\obj\Debug\net5.0\refint\02.CarRace.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\04ProgrammingFundamentalsMidExam\02.CarRace\obj\Debug\net5.0\02.CarRace.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\04ProgrammingFundamentalsMidExam\02.CarRace\obj\Debug\net5.0\02.CarRace.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\04ProgrammingFundamentalsMidExam\02.CarRace\obj\Debug\net5.0\ref\02.CarRace.dll
