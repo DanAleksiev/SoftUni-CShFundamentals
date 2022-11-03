@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Objects and Classes - Exercise\06.VehicleCatalogue\bin\Debug\net5.0\06.VehicleCatalogue.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Objects and Classes - Exercise\06.VehicleCatalogue\bin\Debug\net5.0\06.VehicleCatalogue.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Objects and Classes - Exercise\06.VehicleCatalogue\bin\Debug\net5.0\06.VehicleCatalogue.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Objects and Classes - Exercise\06.VehicleCatalogue\bin\Debug\net5.0\06.VehicleCatalogue.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Objects and Classes - Exercise\06.VehicleCatalogue\bin\Debug\net5.0\06.VehicleCatalogue.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Objects and Classes - Exercise\06.VehicleCatalogue\bin\Debug\net5.0\06.VehicleCatalogue.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Objects and Classes - Exercise\06.VehicleCatalogue\obj\Debug\net5.0\06.VehicleCatalogue.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Objects and Classes - Exercise\06.VehicleCatalogue\obj\Debug\net5.0\06.VehicleCatalogue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Objects and Classes - Exercise\06.VehicleCatalogue\obj\Debug\net5.0\06.VehicleCatalogue.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Objects and Classes - Exercise\06.VehicleCatalogue\obj\Debug\net5.0\06.VehicleCatalogue.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Objects and Classes - Exercise\06.VehicleCatalogue\obj\Debug\net5.0\06.VehicleCatalogue.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Objects and Classes - Exercise\06.VehicleCatalogue\obj\Debug\net5.0\06.VehicleCatalogue.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Objects and Classes - Exercise\06.VehicleCatalogue\obj\Debug\net5.0\refint\06.VehicleCatalogue.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Objects and Classes - Exercise\06.VehicleCatalogue\obj\Debug\net5.0\06.VehicleCatalogue.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Objects and Classes - Exercise\06.VehicleCatalogue\obj\Debug\net5.0\06.VehicleCatalogue.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Objects and Classes - Exercise\06.VehicleCatalogue\obj\Debug\net5.0\ref\06.VehicleCatalogue.dll

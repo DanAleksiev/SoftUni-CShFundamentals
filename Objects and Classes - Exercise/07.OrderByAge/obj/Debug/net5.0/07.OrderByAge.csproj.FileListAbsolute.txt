@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Objects and Classes - Exercise\07.OrderByAge\bin\Debug\net5.0\07.OrderByAge.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Objects and Classes - Exercise\07.OrderByAge\bin\Debug\net5.0\07.OrderByAge.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Objects and Classes - Exercise\07.OrderByAge\bin\Debug\net5.0\07.OrderByAge.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Objects and Classes - Exercise\07.OrderByAge\bin\Debug\net5.0\07.OrderByAge.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Objects and Classes - Exercise\07.OrderByAge\bin\Debug\net5.0\07.OrderByAge.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Objects and Classes - Exercise\07.OrderByAge\bin\Debug\net5.0\07.OrderByAge.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Objects and Classes - Exercise\07.OrderByAge\obj\Debug\net5.0\07.OrderByAge.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Objects and Classes - Exercise\07.OrderByAge\obj\Debug\net5.0\07.OrderByAge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Objects and Classes - Exercise\07.OrderByAge\obj\Debug\net5.0\07.OrderByAge.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Objects and Classes - Exercise\07.OrderByAge\obj\Debug\net5.0\07.OrderByAge.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Objects and Classes - Exercise\07.OrderByAge\obj\Debug\net5.0\07.OrderByAge.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Objects and Classes - Exercise\07.OrderByAge\obj\Debug\net5.0\07.OrderByAge.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Objects and Classes - Exercise\07.OrderByAge\obj\Debug\net5.0\refint\07.OrderByAge.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Objects and Classes - Exercise\07.OrderByAge\obj\Debug\net5.0\07.OrderByAge.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Objects and Classes - Exercise\07.OrderByAge\obj\Debug\net5.0\07.OrderByAge.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Objects and Classes - Exercise\07.OrderByAge\obj\Debug\net5.0\ref\07.OrderByAge.dll

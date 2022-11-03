@@ -19,6 +19,7 @@ namespace cheatSheetMethods_
             numbers.Insert(0, 2); //insert on (index) the (num) and mooves all after +1 index
             numbers.Sort(); //sort
             numbers.AddRange(new int[] {1,2}); //add multiple nums
+            numbers.FirstOrDefault(x=>x == 2); //finds the first resoult 
             Console.WriteLine(numbers.Contains(2));
 
             Console.WriteLine(String.Join(Environment.NewLine, numbers)); //Environment.NewLine print new lines

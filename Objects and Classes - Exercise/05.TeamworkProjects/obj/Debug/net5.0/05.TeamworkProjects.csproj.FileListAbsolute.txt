@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Objects and Classes - Exercise\05.TeamworkProjects\bin\Debug\net5.0\05.TeamworkProjects.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Objects and Classes - Exercise\05.TeamworkProjects\bin\Debug\net5.0\05.TeamworkProjects.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Objects and Classes - Exercise\05.TeamworkProjects\bin\Debug\net5.0\05.TeamworkProjects.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Objects and Classes - Exercise\05.TeamworkProjects\bin\Debug\net5.0\05.TeamworkProjects.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Objects and Classes - Exercise\05.TeamworkProjects\bin\Debug\net5.0\05.TeamworkProjects.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Objects and Classes - Exercise\05.TeamworkProjects\bin\Debug\net5.0\05.TeamworkProjects.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Objects and Classes - Exercise\05.TeamworkProjects\obj\Debug\net5.0\05.TeamworkProjects.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Objects and Classes - Exercise\05.TeamworkProjects\obj\Debug\net5.0\05.TeamworkProjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Objects and Classes - Exercise\05.TeamworkProjects\obj\Debug\net5.0\05.TeamworkProjects.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Objects and Classes - Exercise\05.TeamworkProjects\obj\Debug\net5.0\05.TeamworkProjects.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Objects and Classes - Exercise\05.TeamworkProjects\obj\Debug\net5.0\05.TeamworkProjects.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Objects and Classes - Exercise\05.TeamworkProjects\obj\Debug\net5.0\05.TeamworkProjects.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Objects and Classes - Exercise\05.TeamworkProjects\obj\Debug\net5.0\refint\05.TeamworkProjects.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Objects and Classes - Exercise\05.TeamworkProjects\obj\Debug\net5.0\05.TeamworkProjects.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Objects and Classes - Exercise\05.TeamworkProjects\obj\Debug\net5.0\05.TeamworkProjects.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\my work\Objects and Classes - Exercise\05.TeamworkProjects\obj\Debug\net5.0\ref\05.TeamworkProjects.dll
