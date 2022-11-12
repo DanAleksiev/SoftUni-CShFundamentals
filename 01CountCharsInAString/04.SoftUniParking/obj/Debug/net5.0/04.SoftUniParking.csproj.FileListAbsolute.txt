@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01CountCharsInAString\04.SoftUniParking\bin\Debug\net5.0\04.SoftUniParking.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01CountCharsInAString\04.SoftUniParking\bin\Debug\net5.0\04.SoftUniParking.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01CountCharsInAString\04.SoftUniParking\bin\Debug\net5.0\04.SoftUniParking.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01CountCharsInAString\04.SoftUniParking\bin\Debug\net5.0\04.SoftUniParking.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01CountCharsInAString\04.SoftUniParking\bin\Debug\net5.0\04.SoftUniParking.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01CountCharsInAString\04.SoftUniParking\bin\Debug\net5.0\04.SoftUniParking.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01CountCharsInAString\04.SoftUniParking\obj\Debug\net5.0\04.SoftUniParking.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01CountCharsInAString\04.SoftUniParking\obj\Debug\net5.0\04.SoftUniParking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01CountCharsInAString\04.SoftUniParking\obj\Debug\net5.0\04.SoftUniParking.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01CountCharsInAString\04.SoftUniParking\obj\Debug\net5.0\04.SoftUniParking.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01CountCharsInAString\04.SoftUniParking\obj\Debug\net5.0\04.SoftUniParking.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01CountCharsInAString\04.SoftUniParking\obj\Debug\net5.0\04.SoftUniParking.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01CountCharsInAString\04.SoftUniParking\obj\Debug\net5.0\refint\04.SoftUniParking.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01CountCharsInAString\04.SoftUniParking\obj\Debug\net5.0\04.SoftUniParking.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01CountCharsInAString\04.SoftUniParking\obj\Debug\net5.0\04.SoftUniParking.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01CountCharsInAString\04.SoftUniParking\obj\Debug\net5.0\ref\04.SoftUniParking.dll

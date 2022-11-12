@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01CountCharsInAString\01CountCharsInAString\obj\Debug\net5.0\01CountCharsInAString.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01CountCharsInAString\01CountCharsInAString\obj\Debug\net5.0\01CountCharsInAString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01CountCharsInAString\01CountCharsInAString\obj\Debug\net5.0\01CountCharsInAString.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01CountCharsInAString\01CountCharsInAString\obj\Debug\net5.0\01CountCharsInAString.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01CountCharsInAString\01CountCharsInAString\obj\Debug\net5.0\01CountCharsInAString.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01CountCharsInAString\01CountCharsInAString\bin\Debug\net5.0\01CountCharsInAString.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01CountCharsInAString\01CountCharsInAString\bin\Debug\net5.0\01CountCharsInAString.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01CountCharsInAString\01CountCharsInAString\bin\Debug\net5.0\01CountCharsInAString.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01CountCharsInAString\01CountCharsInAString\bin\Debug\net5.0\01CountCharsInAString.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01CountCharsInAString\01CountCharsInAString\bin\Debug\net5.0\01CountCharsInAString.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01CountCharsInAString\01CountCharsInAString\bin\Debug\net5.0\01CountCharsInAString.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01CountCharsInAString\01CountCharsInAString\obj\Debug\net5.0\01CountCharsInAString.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01CountCharsInAString\01CountCharsInAString\obj\Debug\net5.0\refint\01CountCharsInAString.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01CountCharsInAString\01CountCharsInAString\obj\Debug\net5.0\01CountCharsInAString.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01CountCharsInAString\01CountCharsInAString\obj\Debug\net5.0\01CountCharsInAString.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01CountCharsInAString\01CountCharsInAString\obj\Debug\net5.0\ref\01CountCharsInAString.dll

@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01CountCharsInAString\07.CompanyUsers\bin\Debug\net5.0\07.CompanyUsers.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01CountCharsInAString\07.CompanyUsers\bin\Debug\net5.0\07.CompanyUsers.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01CountCharsInAString\07.CompanyUsers\bin\Debug\net5.0\07.CompanyUsers.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01CountCharsInAString\07.CompanyUsers\bin\Debug\net5.0\07.CompanyUsers.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01CountCharsInAString\07.CompanyUsers\bin\Debug\net5.0\07.CompanyUsers.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01CountCharsInAString\07.CompanyUsers\bin\Debug\net5.0\07.CompanyUsers.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01CountCharsInAString\07.CompanyUsers\obj\Debug\net5.0\07.CompanyUsers.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01CountCharsInAString\07.CompanyUsers\obj\Debug\net5.0\07.CompanyUsers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01CountCharsInAString\07.CompanyUsers\obj\Debug\net5.0\07.CompanyUsers.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01CountCharsInAString\07.CompanyUsers\obj\Debug\net5.0\07.CompanyUsers.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01CountCharsInAString\07.CompanyUsers\obj\Debug\net5.0\07.CompanyUsers.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01CountCharsInAString\07.CompanyUsers\obj\Debug\net5.0\07.CompanyUsers.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01CountCharsInAString\07.CompanyUsers\obj\Debug\net5.0\refint\07.CompanyUsers.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01CountCharsInAString\07.CompanyUsers\obj\Debug\net5.0\07.CompanyUsers.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01CountCharsInAString\07.CompanyUsers\obj\Debug\net5.0\07.CompanyUsers.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01CountCharsInAString\07.CompanyUsers\obj\Debug\net5.0\ref\07.CompanyUsers.dll
