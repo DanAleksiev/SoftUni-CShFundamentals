@@ -12,9 +12,11 @@ namespace _06.ExtractEmails
             MatchCollection match = Regex.Matches(input, pattern);
             foreach (Match m in match)
                 {
-                Console.WriteLine(m.Value);
+                if (m.Value != "info@info.info")
+                    {
+                    Console.WriteLine(m.Value);
+                    }            
                 }
-
             }
         }
     }
