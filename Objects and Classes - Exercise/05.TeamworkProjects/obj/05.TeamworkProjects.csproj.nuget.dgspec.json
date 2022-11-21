@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\my work\\Objects and Classes - Exercise\\05.TeamworkProjects\\05.TeamworkProjects.csproj": {}
+    "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\MyWorkFundamentals\\Objects and Classes - Exercise\\05.TeamworkProjects\\05.TeamworkProjects.csproj": {}
   },
   "projects": {
-    "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\my work\\Objects and Classes - Exercise\\05.TeamworkProjects\\05.TeamworkProjects.csproj": {
+    "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\MyWorkFundamentals\\Objects and Classes - Exercise\\05.TeamworkProjects\\05.TeamworkProjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\my work\\Objects and Classes - Exercise\\05.TeamworkProjects\\05.TeamworkProjects.csproj",
+        "projectUniqueName": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\MyWorkFundamentals\\Objects and Classes - Exercise\\05.TeamworkProjects\\05.TeamworkProjects.csproj",
         "projectName": "05.TeamworkProjects",
-        "projectPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\my work\\Objects and Classes - Exercise\\05.TeamworkProjects\\05.TeamworkProjects.csproj",
+        "projectPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\MyWorkFundamentals\\Objects and Classes - Exercise\\05.TeamworkProjects\\05.TeamworkProjects.csproj",
         "packagesPath": "C:\\Users\\toksi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\my work\\Objects and Classes - Exercise\\05.TeamworkProjects\\obj\\",
+        "outputPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\MyWorkFundamentals\\Objects and Classes - Exercise\\05.TeamworkProjects\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

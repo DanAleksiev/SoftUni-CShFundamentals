@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\my work\\Objects and Classes - Exercise\\04.Students\\04.Students.csproj",
+      "projectUniqueName": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\MyWorkFundamentals\\Objects and Classes - Exercise\\04.Students\\04.Students.csproj",
       "projectName": "04.Students",
-      "projectPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\my work\\Objects and Classes - Exercise\\04.Students\\04.Students.csproj",
+      "projectPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\MyWorkFundamentals\\Objects and Classes - Exercise\\04.Students\\04.Students.csproj",
       "packagesPath": "C:\\Users\\toksi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\my work\\Objects and Classes - Exercise\\04.Students\\obj\\",
+      "outputPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\MyWorkFundamentals\\Objects and Classes - Exercise\\04.Students\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

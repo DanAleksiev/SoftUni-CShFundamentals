@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\Text Processing - Exercise\03.Extract File\bin\Debug\net5.0\03.Extract File.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\Text Processing - Exercise\03.Extract File\bin\Debug\net5.0\03.Extract File.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\Text Processing - Exercise\03.Extract File\bin\Debug\net5.0\03.Extract File.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\Text Processing - Exercise\03.Extract File\bin\Debug\net5.0\03.Extract File.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\Text Processing - Exercise\03.Extract File\bin\Debug\net5.0\03.Extract File.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\Text Processing - Exercise\03.Extract File\bin\Debug\net5.0\03.Extract File.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\Text Processing - Exercise\03.Extract File\obj\Debug\net5.0\03.Extract File.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\Text Processing - Exercise\03.Extract File\obj\Debug\net5.0\03.Extract File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\Text Processing - Exercise\03.Extract File\obj\Debug\net5.0\03.Extract File.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\Text Processing - Exercise\03.Extract File\obj\Debug\net5.0\03.Extract File.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\Text Processing - Exercise\03.Extract File\obj\Debug\net5.0\03.Extract File.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\Text Processing - Exercise\03.Extract File\obj\Debug\net5.0\03.Extract File.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\Text Processing - Exercise\03.Extract File\obj\Debug\net5.0\refint\03.Extract File.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\Text Processing - Exercise\03.Extract File\obj\Debug\net5.0\03.Extract File.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\Text Processing - Exercise\03.Extract File\obj\Debug\net5.0\03.Extract File.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\Text Processing - Exercise\03.Extract File\obj\Debug\net5.0\ref\03.Extract File.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\my work\\Objects and Classes - Exercise\\01.AdvertisementMessage\\01.AdvertisementMessage.csproj": {}
+    "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\MyWorkFundamentals\\Objects and Classes - Exercise\\01.AdvertisementMessage\\01.AdvertisementMessage.csproj": {}
   },
   "projects": {
-    "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\my work\\Objects and Classes - Exercise\\01.AdvertisementMessage\\01.AdvertisementMessage.csproj": {
+    "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\MyWorkFundamentals\\Objects and Classes - Exercise\\01.AdvertisementMessage\\01.AdvertisementMessage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\my work\\Objects and Classes - Exercise\\01.AdvertisementMessage\\01.AdvertisementMessage.csproj",
+        "projectUniqueName": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\MyWorkFundamentals\\Objects and Classes - Exercise\\01.AdvertisementMessage\\01.AdvertisementMessage.csproj",
         "projectName": "01.AdvertisementMessage",
-        "projectPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\my work\\Objects and Classes - Exercise\\01.AdvertisementMessage\\01.AdvertisementMessage.csproj",
+        "projectPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\MyWorkFundamentals\\Objects and Classes - Exercise\\01.AdvertisementMessage\\01.AdvertisementMessage.csproj",
         "packagesPath": "C:\\Users\\toksi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\my work\\Objects and Classes - Exercise\\01.AdvertisementMessage\\obj\\",
+        "outputPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\fundamentals\\MyWorkFundamentals\\Objects and Classes - Exercise\\01.AdvertisementMessage\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
