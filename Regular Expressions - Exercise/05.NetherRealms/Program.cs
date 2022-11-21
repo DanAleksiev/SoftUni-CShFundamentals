@@ -9,28 +9,27 @@ namespace _05.NetherRealms
         {
         static void Main(string[] args)
             {
-            string input = Console.ReadLine();           
-            List<string> demons = input.Split(new string[] { ", ", " ", " - " }, StringSplitOptions.RemoveEmptyEntries).ToList();
+            string[] demons = Regex.Split(Console.ReadLine(), @" *,{1} *");
             SortedDictionary<string, string> demonBook = new SortedDictionary<string, string>();
+
             foreach (string demon in demons)
-                {
-                string paternHealth = @"([A-Za-z])";
-                string paternDamage = @"([-+]*\d\.\d|\d+)";
-                string bonusPoints = @"[*\\]";
-                MatchCollection demonName = Regex.Matches(demon, paternHealth);
-                MatchCollection demonDamage = Regex.Matches(demon, paternDamage);
-                MatchCollection bonus = Regex.Matches(demon, bonusPoints);
+                {                                               
                 int helth = 0;
-                double damage = 0;
-                
+                string paternHealth = @"[^0-9\+\-\*\/\.]";
+                MatchCollection demonName = Regex.Matches(demon, paternHealth);
                 foreach (Match match in demonName)
                     {
                     helth += char.Parse(match.ToString());
                     }
+                double damage = 0;
+                string paternDamage = @"((|-)\d+\.\d+|(|-)\d+)";
+                MatchCollection demonDamage = Regex.Matches(demon, paternDamage);
                 foreach (Match match in demonDamage)
                     {
                     damage += double.Parse(match.ToString());
                     }
+                string bonusPoints = @"[*\/]";
+                MatchCollection bonus = Regex.Matches(demon, bonusPoints);
                 foreach (Match match in bonus)
                     {
                     if (match.ToString() == "*")
@@ -42,7 +41,7 @@ namespace _05.NetherRealms
                         damage /= 2;
                         }
                     }
-                demonBook[demon] = $"- {helth} health, {damage:f2} damage";              
+                demonBook[demon] = $" - {helth} health, {damage:f2} damage";              
                 }
             foreach(var demon in demonBook)
                 {
