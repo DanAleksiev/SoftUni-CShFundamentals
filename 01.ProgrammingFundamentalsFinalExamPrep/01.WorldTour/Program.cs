@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Reflection;
 using System.Text;
 
 namespace _01.WorldTour
@@ -19,7 +18,7 @@ namespace _01.WorldTour
                 if (action == "Add Stop")
                     {
                     int index = int.Parse(list[1]);
-                    if (index > stops.Length && index < 0)
+                    if (index > stops.Length || index < 0)
                         {
                         continue;
                         }
@@ -33,7 +32,7 @@ namespace _01.WorldTour
                     {
                     int startIndex = int.Parse(list[1]);
                     int endIndex = int.Parse(list[2]);
-                    
+
                     if (startIndex > stops.Length || endIndex > stops.Length || startIndex < 0 || endIndex < 0)
                         {
                         continue;
@@ -41,7 +40,7 @@ namespace _01.WorldTour
                     else
                         {
                         int lengt = endIndex - startIndex;
-                        stops.Remove(startIndex, lengt+1);
+                        stops.Remove(startIndex, lengt + 1);
                         }
                     }
                 else if (action == "Switch")
@@ -53,7 +52,6 @@ namespace _01.WorldTour
                 Console.WriteLine(stops);
                 }
             Console.WriteLine($"Ready for world tour! Planned stops: {stops}");
-
             }
         }
     }
