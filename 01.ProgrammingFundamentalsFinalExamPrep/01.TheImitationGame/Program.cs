@@ -15,7 +15,7 @@ namespace _01.TheImitationGame
             StringBuilder editedMasage = new StringBuilder(masage);
             while ((action = Console.ReadLine()) != "Decode")
                 {
-                List<string> actionList = action.Split("|",StringSplitOptions.RemoveEmptyEntries).ToList();
+                List<string> actionList = action.Split("|", StringSplitOptions.RemoveEmptyEntries).ToList();
                 if (actionList[0] == "Move")
                     {
                     StringBuilder sb = new StringBuilder();
@@ -39,7 +39,7 @@ namespace _01.TheImitationGame
                     string replace = actionList[1];
                     string replaceWith = actionList[2];
                     editedMasage.Replace(replace, replaceWith);
-                    }                
+                    }
                 }
             Console.WriteLine($"The decrypted message is: {editedMasage.ToString()}");
             }

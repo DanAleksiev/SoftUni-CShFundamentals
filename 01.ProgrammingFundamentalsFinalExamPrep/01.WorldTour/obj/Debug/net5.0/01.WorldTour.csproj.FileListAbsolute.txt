@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.ProgrammingFundamentalsFinalExamPrep\01.WorldTour\bin\Debug\net5.0\01.WorldTour.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.ProgrammingFundamentalsFinalExamPrep\01.WorldTour\bin\Debug\net5.0\01.WorldTour.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.ProgrammingFundamentalsFinalExamPrep\01.WorldTour\bin\Debug\net5.0\01.WorldTour.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.ProgrammingFundamentalsFinalExamPrep\01.WorldTour\bin\Debug\net5.0\01.WorldTour.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.ProgrammingFundamentalsFinalExamPrep\01.WorldTour\bin\Debug\net5.0\01.WorldTour.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.ProgrammingFundamentalsFinalExamPrep\01.WorldTour\bin\Debug\net5.0\01.WorldTour.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.ProgrammingFundamentalsFinalExamPrep\01.WorldTour\obj\Debug\net5.0\01.WorldTour.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.ProgrammingFundamentalsFinalExamPrep\01.WorldTour\obj\Debug\net5.0\01.WorldTour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.ProgrammingFundamentalsFinalExamPrep\01.WorldTour\obj\Debug\net5.0\01.WorldTour.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.ProgrammingFundamentalsFinalExamPrep\01.WorldTour\obj\Debug\net5.0\01.WorldTour.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.ProgrammingFundamentalsFinalExamPrep\01.WorldTour\obj\Debug\net5.0\01.WorldTour.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.ProgrammingFundamentalsFinalExamPrep\01.WorldTour\obj\Debug\net5.0\01.WorldTour.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.ProgrammingFundamentalsFinalExamPrep\01.WorldTour\obj\Debug\net5.0\refint\01.WorldTour.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.ProgrammingFundamentalsFinalExamPrep\01.WorldTour\obj\Debug\net5.0\01.WorldTour.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.ProgrammingFundamentalsFinalExamPrep\01.WorldTour\obj\Debug\net5.0\01.WorldTour.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.ProgrammingFundamentalsFinalExamPrep\01.WorldTour\obj\Debug\net5.0\ref\01.WorldTour.dll
