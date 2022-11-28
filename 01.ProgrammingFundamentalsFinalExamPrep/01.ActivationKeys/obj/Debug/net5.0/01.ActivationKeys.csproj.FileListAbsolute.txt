@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.ProgrammingFundamentalsFinalExamPrep\01.ActivationKeys\bin\Debug\net5.0\01.ActivationKeys.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.ProgrammingFundamentalsFinalExamPrep\01.ActivationKeys\bin\Debug\net5.0\01.ActivationKeys.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.ProgrammingFundamentalsFinalExamPrep\01.ActivationKeys\bin\Debug\net5.0\01.ActivationKeys.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.ProgrammingFundamentalsFinalExamPrep\01.ActivationKeys\bin\Debug\net5.0\01.ActivationKeys.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.ProgrammingFundamentalsFinalExamPrep\01.ActivationKeys\bin\Debug\net5.0\01.ActivationKeys.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.ProgrammingFundamentalsFinalExamPrep\01.ActivationKeys\bin\Debug\net5.0\01.ActivationKeys.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.ProgrammingFundamentalsFinalExamPrep\01.ActivationKeys\obj\Debug\net5.0\01.ActivationKeys.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.ProgrammingFundamentalsFinalExamPrep\01.ActivationKeys\obj\Debug\net5.0\01.ActivationKeys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.ProgrammingFundamentalsFinalExamPrep\01.ActivationKeys\obj\Debug\net5.0\01.ActivationKeys.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.ProgrammingFundamentalsFinalExamPrep\01.ActivationKeys\obj\Debug\net5.0\01.ActivationKeys.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.ProgrammingFundamentalsFinalExamPrep\01.ActivationKeys\obj\Debug\net5.0\01.ActivationKeys.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.ProgrammingFundamentalsFinalExamPrep\01.ActivationKeys\obj\Debug\net5.0\01.ActivationKeys.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.ProgrammingFundamentalsFinalExamPrep\01.ActivationKeys\obj\Debug\net5.0\refint\01.ActivationKeys.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.ProgrammingFundamentalsFinalExamPrep\01.ActivationKeys\obj\Debug\net5.0\01.ActivationKeys.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.ProgrammingFundamentalsFinalExamPrep\01.ActivationKeys\obj\Debug\net5.0\01.ActivationKeys.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.ProgrammingFundamentalsFinalExamPrep\01.ActivationKeys\obj\Debug\net5.0\ref\01.ActivationKeys.dll

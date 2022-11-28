@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.ProgrammingFundamentalsFinalExamPrep\03.P!rates\bin\Debug\net5.0\03.P!rates.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.ProgrammingFundamentalsFinalExamPrep\03.P!rates\bin\Debug\net5.0\03.P!rates.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.ProgrammingFundamentalsFinalExamPrep\03.P!rates\bin\Debug\net5.0\03.P!rates.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.ProgrammingFundamentalsFinalExamPrep\03.P!rates\bin\Debug\net5.0\03.P!rates.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.ProgrammingFundamentalsFinalExamPrep\03.P!rates\bin\Debug\net5.0\03.P!rates.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.ProgrammingFundamentalsFinalExamPrep\03.P!rates\bin\Debug\net5.0\03.P!rates.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.ProgrammingFundamentalsFinalExamPrep\03.P!rates\obj\Debug\net5.0\03.P!rates.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.ProgrammingFundamentalsFinalExamPrep\03.P!rates\obj\Debug\net5.0\03.P!rates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.ProgrammingFundamentalsFinalExamPrep\03.P!rates\obj\Debug\net5.0\03.P!rates.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.ProgrammingFundamentalsFinalExamPrep\03.P!rates\obj\Debug\net5.0\03.P!rates.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.ProgrammingFundamentalsFinalExamPrep\03.P!rates\obj\Debug\net5.0\03.P!rates.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.ProgrammingFundamentalsFinalExamPrep\03.P!rates\obj\Debug\net5.0\03.P!rates.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.ProgrammingFundamentalsFinalExamPrep\03.P!rates\obj\Debug\net5.0\refint\03.P!rates.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.ProgrammingFundamentalsFinalExamPrep\03.P!rates\obj\Debug\net5.0\03.P!rates.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.ProgrammingFundamentalsFinalExamPrep\03.P!rates\obj\Debug\net5.0\03.P!rates.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.ProgrammingFundamentalsFinalExamPrep\03.P!rates\obj\Debug\net5.0\ref\03.P!rates.dll
