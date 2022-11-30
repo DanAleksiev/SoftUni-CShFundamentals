@@ -23,7 +23,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.EmojiDetector", "02.Emoj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.P!rates", "03.P!rates\03.P!rates.csproj", "{21ECAB0F-D763-4DA3-A6CB-4B35C7C8E645}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.SecretChat", "01.SecretChat\01.SecretChat.csproj", "{A3CC7B23-B95E-47A1-BAC1-EE5B646BCD92}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.SecretChat", "01.SecretChat\01.SecretChat.csproj", "{A3CC7B23-B95E-47A1-BAC1-EE5B646BCD92}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.MirrorWords", "02.MirrorWords\02.MirrorWords.csproj", "{48930F8A-BE38-4BC4-A1F9-1AEE8B8DCA51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Need for Speed III", "03. Need for Speed III\03. Need for Speed III.csproj", "{28122C59-DF3C-4AAA-973C-65F213F6D62C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +79,14 @@ Global
 		{A3CC7B23-B95E-47A1-BAC1-EE5B646BCD92}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3CC7B23-B95E-47A1-BAC1-EE5B646BCD92}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3CC7B23-B95E-47A1-BAC1-EE5B646BCD92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48930F8A-BE38-4BC4-A1F9-1AEE8B8DCA51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48930F8A-BE38-4BC4-A1F9-1AEE8B8DCA51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48930F8A-BE38-4BC4-A1F9-1AEE8B8DCA51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48930F8A-BE38-4BC4-A1F9-1AEE8B8DCA51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28122C59-DF3C-4AAA-973C-65F213F6D62C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28122C59-DF3C-4AAA-973C-65F213F6D62C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28122C59-DF3C-4AAA-973C-65F213F6D62C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28122C59-DF3C-4AAA-973C-65F213F6D62C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

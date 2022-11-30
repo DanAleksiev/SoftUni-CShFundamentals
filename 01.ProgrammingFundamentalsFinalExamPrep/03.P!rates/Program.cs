@@ -25,6 +25,7 @@ namespace _03.P_rates
                 string city = split[0];
                 string population = split[1];
                 string gold = split[2];
+
                 if (!cityes.ContainsKey(city))
                     {
                     string peopleGold = $"{population}||{gold}";
@@ -33,9 +34,11 @@ namespace _03.P_rates
                 else
                     {
                     string value = cityes[city];
+
                     List<int> peopleGold = value.Split("||").Select(int.Parse).ToList();
                     int newPopulation = int.Parse(population) + peopleGold[0];
                     int newGold = int.Parse(gold) + peopleGold[1];
+
                     string newValue = $"{newPopulation}||{newGold}";
                     cityes[city] = newValue;
                     }
@@ -52,14 +55,17 @@ namespace _03.P_rates
                 List<string> split = input.Split("=>").ToList();
                 string action = split[0];
                 string city = split[1];
+
                 if (action == "Plunder")
                     {
                     int peopleKilled = int.Parse(split[2]);
                     int gold = int.Parse(split[3]);
+
                     string townWelth = cityes[city];
                     List<string> townWelthSplit = townWelth.Split("||").ToList();
                     int townPopulation = int.Parse(townWelthSplit[0]) - peopleKilled;
                     int townGold = int.Parse(townWelthSplit[1]) - gold;
+
                     Console.WriteLine($"{city} plundered! {gold} gold stolen, {peopleKilled} citizens killed.");
                     if (townGold > 0 && townPopulation > 0)
                         {
@@ -74,7 +80,7 @@ namespace _03.P_rates
                 else if (action == "Prosper")
                     {
                     int gold = int.Parse(split[2]);
-                    if (gold <= 0)
+                    if (gold < 0)
                         {
                         Console.WriteLine("Gold added cannot be a negative number!");
                         }
@@ -84,6 +90,7 @@ namespace _03.P_rates
                         List<string> townWelthSplit = townWelth.Split("||").ToList();
                         int townGold = int.Parse(townWelthSplit[1]) + gold;
                         int townPopulation = int.Parse(townWelthSplit[0]);
+
                         cityes[city] = $"{townPopulation}||{townGold}";
                         Console.WriteLine($"{gold} gold added to the city treasury. {city} now has {townGold} gold.");
                         }
@@ -98,11 +105,13 @@ namespace _03.P_rates
             if (cityes.Count > 0)
                 {
                 Console.WriteLine($"Ahoy, Captain! There are {cityes.Count} wealthy settlements to go to:");
+
                 foreach (var city in cityes)
                     {
                     List<string> townWelthSplit = city.Value.Split("||").ToList();
                     int people = int.Parse(townWelthSplit[0]);
                     int gold = int.Parse(townWelthSplit[1]);
+
                     Console.WriteLine($"{city.Key} -> Population: {people} citizens, Gold: {gold} kg");
                     }
                 }

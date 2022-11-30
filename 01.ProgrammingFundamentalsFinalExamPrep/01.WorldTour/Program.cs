@@ -18,11 +18,7 @@ namespace _01.WorldTour
                 if (action == "Add Stop")
                     {
                     int index = int.Parse(list[1]);
-                    if (index > stops.Length || index < 0)
-                        {
-                        continue;
-                        }
-                    else
+                    if (index < stops.Length && index >= 0)
                         {
                         string place = list[2];
                         stops.Insert(index, place);
@@ -33,11 +29,7 @@ namespace _01.WorldTour
                     int startIndex = int.Parse(list[1]);
                     int endIndex = int.Parse(list[2]);
 
-                    if (startIndex > stops.Length || endIndex > stops.Length || startIndex < 0 || endIndex < 0)
-                        {
-                        continue;
-                        }
-                    else
+                    if (startIndex < stops.Length && endIndex < stops.Length && startIndex >= 0 && endIndex >= 0)
                         {
                         int lengt = endIndex - startIndex;
                         stops.Remove(startIndex, lengt + 1);
