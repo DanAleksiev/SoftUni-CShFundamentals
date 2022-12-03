@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.ProgrammingFundamentalsFinalExamPrep\03.HeroesOfCodeAndLogicVII\bin\Debug\net5.0\03.HeroesOfCodeAndLogicVII.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.ProgrammingFundamentalsFinalExamPrep\03.HeroesOfCodeAndLogicVII\bin\Debug\net5.0\03.HeroesOfCodeAndLogicVII.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.ProgrammingFundamentalsFinalExamPrep\03.HeroesOfCodeAndLogicVII\bin\Debug\net5.0\03.HeroesOfCodeAndLogicVII.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.ProgrammingFundamentalsFinalExamPrep\03.HeroesOfCodeAndLogicVII\bin\Debug\net5.0\03.HeroesOfCodeAndLogicVII.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.ProgrammingFundamentalsFinalExamPrep\03.HeroesOfCodeAndLogicVII\bin\Debug\net5.0\03.HeroesOfCodeAndLogicVII.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.ProgrammingFundamentalsFinalExamPrep\03.HeroesOfCodeAndLogicVII\bin\Debug\net5.0\03.HeroesOfCodeAndLogicVII.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.ProgrammingFundamentalsFinalExamPrep\03.HeroesOfCodeAndLogicVII\obj\Debug\net5.0\03.HeroesOfCodeAndLogicVII.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.ProgrammingFundamentalsFinalExamPrep\03.HeroesOfCodeAndLogicVII\obj\Debug\net5.0\03.HeroesOfCodeAndLogicVII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.ProgrammingFundamentalsFinalExamPrep\03.HeroesOfCodeAndLogicVII\obj\Debug\net5.0\03.HeroesOfCodeAndLogicVII.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.ProgrammingFundamentalsFinalExamPrep\03.HeroesOfCodeAndLogicVII\obj\Debug\net5.0\03.HeroesOfCodeAndLogicVII.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.ProgrammingFundamentalsFinalExamPrep\03.HeroesOfCodeAndLogicVII\obj\Debug\net5.0\03.HeroesOfCodeAndLogicVII.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.ProgrammingFundamentalsFinalExamPrep\03.HeroesOfCodeAndLogicVII\obj\Debug\net5.0\03.HeroesOfCodeAndLogicVII.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.ProgrammingFundamentalsFinalExamPrep\03.HeroesOfCodeAndLogicVII\obj\Debug\net5.0\refint\03.HeroesOfCodeAndLogicVII.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.ProgrammingFundamentalsFinalExamPrep\03.HeroesOfCodeAndLogicVII\obj\Debug\net5.0\03.HeroesOfCodeAndLogicVII.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.ProgrammingFundamentalsFinalExamPrep\03.HeroesOfCodeAndLogicVII\obj\Debug\net5.0\03.HeroesOfCodeAndLogicVII.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.ProgrammingFundamentalsFinalExamPrep\03.HeroesOfCodeAndLogicVII\obj\Debug\net5.0\ref\03.HeroesOfCodeAndLogicVII.dll
