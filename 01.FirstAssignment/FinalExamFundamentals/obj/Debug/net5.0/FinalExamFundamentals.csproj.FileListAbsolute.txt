@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.FirstAssignment\FinalExamFundamentals\bin\Debug\net5.0\FinalExamFundamentals.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.FirstAssignment\FinalExamFundamentals\bin\Debug\net5.0\FinalExamFundamentals.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.FirstAssignment\FinalExamFundamentals\bin\Debug\net5.0\FinalExamFundamentals.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.FirstAssignment\FinalExamFundamentals\bin\Debug\net5.0\FinalExamFundamentals.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.FirstAssignment\FinalExamFundamentals\bin\Debug\net5.0\FinalExamFundamentals.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.FirstAssignment\FinalExamFundamentals\bin\Debug\net5.0\FinalExamFundamentals.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.FirstAssignment\FinalExamFundamentals\obj\Debug\net5.0\FinalExamFundamentals.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.FirstAssignment\FinalExamFundamentals\obj\Debug\net5.0\FinalExamFundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.FirstAssignment\FinalExamFundamentals\obj\Debug\net5.0\FinalExamFundamentals.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.FirstAssignment\FinalExamFundamentals\obj\Debug\net5.0\FinalExamFundamentals.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.FirstAssignment\FinalExamFundamentals\obj\Debug\net5.0\FinalExamFundamentals.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.FirstAssignment\FinalExamFundamentals\obj\Debug\net5.0\FinalExamFundamentals.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.FirstAssignment\FinalExamFundamentals\obj\Debug\net5.0\refint\FinalExamFundamentals.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.FirstAssignment\FinalExamFundamentals\obj\Debug\net5.0\FinalExamFundamentals.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.FirstAssignment\FinalExamFundamentals\obj\Debug\net5.0\FinalExamFundamentals.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.FirstAssignment\FinalExamFundamentals\obj\Debug\net5.0\ref\FinalExamFundamentals.dll

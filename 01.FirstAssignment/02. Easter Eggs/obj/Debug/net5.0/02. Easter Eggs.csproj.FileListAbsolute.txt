@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.FirstAssignment\02. Easter Eggs\bin\Debug\net5.0\02. Easter Eggs.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.FirstAssignment\02. Easter Eggs\bin\Debug\net5.0\02. Easter Eggs.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.FirstAssignment\02. Easter Eggs\bin\Debug\net5.0\02. Easter Eggs.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.FirstAssignment\02. Easter Eggs\bin\Debug\net5.0\02. Easter Eggs.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.FirstAssignment\02. Easter Eggs\bin\Debug\net5.0\02. Easter Eggs.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.FirstAssignment\02. Easter Eggs\bin\Debug\net5.0\02. Easter Eggs.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.FirstAssignment\02. Easter Eggs\obj\Debug\net5.0\02. Easter Eggs.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.FirstAssignment\02. Easter Eggs\obj\Debug\net5.0\02. Easter Eggs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.FirstAssignment\02. Easter Eggs\obj\Debug\net5.0\02. Easter Eggs.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.FirstAssignment\02. Easter Eggs\obj\Debug\net5.0\02. Easter Eggs.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.FirstAssignment\02. Easter Eggs\obj\Debug\net5.0\02. Easter Eggs.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.FirstAssignment\02. Easter Eggs\obj\Debug\net5.0\02. Easter Eggs.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.FirstAssignment\02. Easter Eggs\obj\Debug\net5.0\refint\02. Easter Eggs.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.FirstAssignment\02. Easter Eggs\obj\Debug\net5.0\02. Easter Eggs.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.FirstAssignment\02. Easter Eggs\obj\Debug\net5.0\02. Easter Eggs.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.FirstAssignment\02. Easter Eggs\obj\Debug\net5.0\ref\02. Easter Eggs.dll

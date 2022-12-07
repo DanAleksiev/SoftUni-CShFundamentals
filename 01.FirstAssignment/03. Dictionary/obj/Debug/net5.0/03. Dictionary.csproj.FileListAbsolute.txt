@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.FirstAssignment\03. Dictionary\bin\Debug\net5.0\03. Dictionary.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.FirstAssignment\03. Dictionary\bin\Debug\net5.0\03. Dictionary.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.FirstAssignment\03. Dictionary\bin\Debug\net5.0\03. Dictionary.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.FirstAssignment\03. Dictionary\bin\Debug\net5.0\03. Dictionary.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.FirstAssignment\03. Dictionary\bin\Debug\net5.0\03. Dictionary.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.FirstAssignment\03. Dictionary\bin\Debug\net5.0\03. Dictionary.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.FirstAssignment\03. Dictionary\obj\Debug\net5.0\03. Dictionary.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.FirstAssignment\03. Dictionary\obj\Debug\net5.0\03. Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.FirstAssignment\03. Dictionary\obj\Debug\net5.0\03. Dictionary.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.FirstAssignment\03. Dictionary\obj\Debug\net5.0\03. Dictionary.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.FirstAssignment\03. Dictionary\obj\Debug\net5.0\03. Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.FirstAssignment\03. Dictionary\obj\Debug\net5.0\03. Dictionary.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.FirstAssignment\03. Dictionary\obj\Debug\net5.0\refint\03. Dictionary.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.FirstAssignment\03. Dictionary\obj\Debug\net5.0\03. Dictionary.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.FirstAssignment\03. Dictionary\obj\Debug\net5.0\03. Dictionary.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\fundamentals\MyWorkFundamentals\01.FirstAssignment\03. Dictionary\obj\Debug\net5.0\ref\03. Dictionary.dll
